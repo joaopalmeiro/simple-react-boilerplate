@@ -8,7 +8,8 @@ module.exports = {
     })
   ],
   devServer: {
-    hot: true
+    hot: true,
+    open: true
   },
   module: {
     rules: [
